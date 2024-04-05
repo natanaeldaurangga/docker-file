@@ -1,0 +1,6 @@
+# ignore semua file di dalam folder /text yang memiliki ekstensi .log
+text/*.log
+
+# ignore semua isi dari folder /text/temp
+text/temp
+
