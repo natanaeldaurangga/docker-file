@@ -2,3 +2,7 @@
 docker build -t natanaeldaurangga/add .
 
 docker container create --name add natanaeldaurangga/add
+
+docker container start add
+
+docker container logs add
