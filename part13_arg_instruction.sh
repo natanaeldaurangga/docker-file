@@ -1,5 +1,5 @@
 # masuk ke folder .\part13_arg_instruction pada cmd lalu jalankan perintah beirkut
-docker build -t natanaeldaurangga/arg . --build-arg app=aplikasi
+docker build -t natanaeldaurangga/arg .
 
 
 # memodifikasi env
